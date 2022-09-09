@@ -5,9 +5,9 @@
  :books: - I am currently studying information systems college and also studying HTML and CSS.
 
 <div align="center">
-  <a href="https://github.com/Kauebrito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauebrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauebrito&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Britox7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Britox7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britox7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <br>
