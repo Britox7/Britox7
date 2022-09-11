@@ -1,4 +1,4 @@
-### Olá!! Me chamo Kauê Brito / Hello!! My name is Kaue Brito
+### Olá!! Me chamo Kauê Brito / Hello!! My name is Kauê Brito
 
  :books: -Atualmente estou cursando faculdade de sistemas de informação e também estudando HTML e CSS.
           
