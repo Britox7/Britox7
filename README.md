@@ -3,6 +3,12 @@
  :books: -Atualmente estou cursando faculdade de sistemas de informação e também estudando HTML e CSS.
           
  :books: - I am currently studying information systems college and also studying HTML and CSS.
+ 
+ :books: - Dando os primeiros passos em JavaScript.
+ 
+ :books: - Taking the first steps in JavaScript.
+
+
 
 <div align="center">
   <a href="https://github.com/Britox7">
