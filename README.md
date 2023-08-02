@@ -1,8 +1,8 @@
 ### Olá!! Me chamo Kauê Brito / Hello!! My name is Kauê Brito
 
- :books: - Atualmente estou cursando faculdade de sistemas de informação e também estudando tecnologias e linguagens por fora.
+ :books: - Atualmente estou cursando sistemas de informação na faculdade e também estudando tecnologias e linguagens separadamente.
           
- :books: - I'm currently attending college of information systems and also studying technologies and languages ​​abroad.
+ :books: - I am currently studying information systems in college and also studying technologies and languages ​​separately.
 
 
 
