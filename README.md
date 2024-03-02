@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about technology, and this is where
 I've also dabbled in design using Figma, and I'm familiar with version control through Git and GitHub. You'll find a variety of repositories here, including web applications, scripts, and coding experiments.
 Feel free to explore my projects, and if you have any questions or suggestions, don't hesitate to reach out. Let's collaborate and innovate together!
 
-- 🌱 I’m currently learning **JavaScript, Java, React, Linux, Git**
+- 🌱 I’m currently learning **Java, Sql, Linux, Git**
 
 - 📫 How to reach me **kauebritodev@gmail.com**
 
